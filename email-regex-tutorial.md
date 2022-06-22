@@ -17,7 +17,7 @@ Looks pretty full on, so let's unpack it!
 - [Anchors](#anchors)
 - [Quantifiers](#quantifiers)
 - [Capture Groups](#capture-groups)
-- [ Character Sets](# character-sets)
+- [ Character Sets](#character-sets)
 - [Character Classes](#character-classes)
 - [Character Escapes](#character-escapes)
 
